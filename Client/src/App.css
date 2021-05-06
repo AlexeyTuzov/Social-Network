@@ -1,0 +1,10 @@
+.Grid { /*таблица-макет страницы*/
+    display: grid;
+    width: 100vw;
+    height: inherit;
+    grid-template-areas: "h h"
+                         "s c"
+                         "f f";
+    grid-template-rows: 50px 1fr 50px;
+    grid-template-columns: 2fr 10fr;
+}

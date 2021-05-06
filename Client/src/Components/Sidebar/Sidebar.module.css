@@ -1,0 +1,36 @@
+.Sidebar { /*свойства грида для сайдбара и его стиль*/
+    grid-area: s;
+    background: linear-gradient(45deg, #ADAFDF, #FCFCEE);
+    padding-left: 20px;
+    }
+
+.a {
+    text-decoration: none;
+    outline: none;
+
+}
+
+.activeLink {
+
+}
+
+.Button {
+    margin: 15px;
+    background-color: #99BBFF;
+    margin-right: 50%;
+    text-align: left;
+    padding: 10px;
+    border: 2px solid #00A0DD;
+    border-radius: 15px;
+    display: block;
+    position: relative;
+    transition: 2s ease 1s;
+    text-decoration: none;
+}
+
+.Button:hover {
+    border: 2px solid #DEDECA;
+    background-color: #F2EBD8;
+    border-radius: 0 30px;
+    transition: .75s ease;
+}

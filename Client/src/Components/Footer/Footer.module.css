@@ -1,0 +1,6 @@
+.Footer {
+    grid-area: f;
+    background: linear-gradient(90deg, #ADAFDF,  blanchedalmond, ivory );
+    text-align: center;
+    color: #BBAABB;
+}

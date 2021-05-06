@@ -1,0 +1,15 @@
+.Tig {
+    height: 400px;
+    position: relative;
+    margin-left: 120px;
+    top:2%;
+    border-radius: 50%;
+     }
+.Header {
+    margin-left: 300px;
+}
+.Textarea {
+    resize: none;
+    background: navajowhite;
+}
+

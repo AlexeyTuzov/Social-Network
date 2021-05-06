@@ -1,0 +1,6 @@
+.Content { /*стиль поля контента*/
+    padding: 10px;
+    grid-area: c;
+    background: ivory;
+    overflow-y: scroll;
+}

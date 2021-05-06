@@ -1,0 +1,15 @@
+.Header {
+    grid-area: h;
+    background: linear-gradient(270deg, #BBAABB, #EDE9E2, ivory);
+    display: grid;
+    align-items: center;
+}
+.GradText {
+    background-image: linear-gradient(245deg, #00A0DD 0%, #99BBFF 25%, #000000 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 1.8em;
+    display: grid;
+    justify-self: center;
+
+}
